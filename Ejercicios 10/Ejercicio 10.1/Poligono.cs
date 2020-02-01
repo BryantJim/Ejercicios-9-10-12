@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio_10._1
+namespace Ejercicio_10._1//Ejercicio 10.3 y 10.4
 {
     public class Poligono
     {
